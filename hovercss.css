@@ -1,0 +1,426 @@
+.image{
+    position: absolute;
+    display: inline;
+    width: 108px;
+    height: 92px;
+    top: 23px;
+    left: 19px;
+    
+}
+h2{
+    
+position: absolute;
+width: 312px;
+height: 45px;
+left: 117px;
+top: 166px;
+
+font-family: 'Roboto Flex';
+font-style: normal;
+font-weight: 200;
+font-size: 38px;
+line-height: 45px;
+/* identical to box height */
+
+
+color: #061a7f;
+font-stretch: 100;
+font-variation-settings: 'GRAD' 122, 'slnt' 0, 'XTRA' 603, 'XOPQ' 96, 'YOPQ' 100, 'YTLC' 514, 'YTUC' 712, 'YTAS' 750, 'YTDE' -203, 'YTFI' 738;
+
+}
+.HEADING{
+    position: absolute;
+    width: 91px;
+    height: 50px;
+    left: 485px;
+    top: 34px;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 20px;
+    color: #4E5DC0;
+    display: flex;
+    gap: 200px;
+}
+.h4{
+   
+width: 39px;
+height: 20px;
+left: 608px;
+top: 74px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 300;
+font-size: 22px;
+line-height: 20px;
+/* identical to box height, or 111% */
+
+
+color: #777C85;
+}
+.wrapper{
+    position: absolute;
+width: 1440px;
+height: 1461px;
+left: 0px;
+top: 0px;
+
+background: #FFFFFF;
+border-radius: 0px;
+}
+#parasf{
+    position: absolute;
+width: 573px;
+height: 272px;
+left: 117px;
+top: 273px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #000000;
+
+opacity: 0.5;
+}
+#love{
+    position: absolute;
+width: 570px;
+height: 327px;
+left: 800px;
+top: 236px;
+
+border-radius: 30px;
+}
+h3{
+    position: absolute;
+width: 260px;
+height: 45px;
+left: 791px;
+top: 782px;
+
+font-family: 'Roboto Flex';
+font-style: normal;
+font-weight: 400;
+font-size: 38px;
+line-height: 45px;
+/* identical to box height */
+
+
+color: #16171C;
+font-stretch: 100;
+font-variation-settings: 'GRAD' 122, 'slnt' 0, 'XTRA' 603, 'XOPQ' 96, 'YOPQ' 100, 'YTLC' 514, 'YTUC' 712, 'YTAS' 750, 'YTDE' -203, 'YTFI' 738;
+
+}
+#sagar{
+    position: absolute;
+width: 462px;
+height: 306px;
+left: 791px;
+top: 919px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+line-height: 34px;
+/* or 170% */
+
+
+color: #000000;
+
+opacity: 0.5;
+}
+#para{
+    position: absolute;
+width: 500px;
+height: 480px;
+left: 117px;
+top: 810px;
+
+border-radius: 30px;
+}
+.mid{
+    
+position: absolute;
+width: 280px;
+height: 0px;
+left: 791px;
+top: 877px;
+
+border: 1px solid rgba(0, 0, 0, 0.5);
+}
+.true{
+    position: absolute;
+width: 280px;
+height: 0px;
+left: 117px;
+top: 251px;
+
+border: 1px solid rgba(0, 0, 0, 0.5);
+}
+#sec{
+    position: absolute;
+
+
+background: #FFFFFF;
+}
+#secid{
+    position: absolute;
+    display: inline;
+width: 98px;
+height: 82px;
+left: 80px;
+top: 1453px;
+}
+#abc{
+    position: absolute;
+width: 180px;
+height: 32px;
+left: 70px;
+top: 1510px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+letter-spacing: 3px;
+text-decoration-line: underline;
+text-transform: uppercase;
+
+color: #4E5DC0;
+}
+h6{
+    
+position: absolute;
+width: 209px;
+height: 64px;
+left: 70px;
+top: 1580px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+color: #999999;
+}
+#address{
+    position: absolute;
+    width: 92px;
+    height: 32px;
+    left: 435px;
+    top: 1521px;
+    
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    /* identical to box height, or 200% */
+    
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    
+    color: #4E5DC0;
+}
+#add{
+    position: absolute;
+    width: 332px;
+    height: 96px;
+    left: 435px;
+    top: 1567px;
+    
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    
+    
+    color:rgb(24, 23, 23)
+}
+span{
+    
+position: absolute;
+width: 61px;
+height: 32px;
+left: 435px;
+top: 1683px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #4E5DC0;
+}
+.qwe{
+    position: absolute;
+width: 185px;
+height: 32px;
+left: 435px;
+top: 1749px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+
+color: #999999;
+}
+.h4:hover{
+    text-decoration: underline;
+    color: rgb(18, 167, 236);
+    transform: scale(1.2);
+}
+h2:hover{
+   
+    transform: scale(1.2);
+}
+h4:hover{
+  
+   
+    transform: scale(1.2);
+}
+#mnb{
+    position: absolute;
+width: 185px;
+height: 32px;
+left: 435px;
+top: 1720px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+
+color: #999999;
+
+}
+#cds{
+    position: absolute;
+width: 57px;
+height: 32px;
+left: 925px;
+top: 1512px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+letter-spacing: 3px;
+text-transform: uppercase;
+
+color: #4E5DC0;
+
+}
+.tag{
+    
+position: relative;
+width: 69px;
+height: 128px;
+left: 925px;
+top: 1567px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+ gap: 16px;
+
+color: #999999;
+}
+.tag1{
+    
+position: absolute;
+width: 69px;
+height: 128px;
+left: 925px;
+top: 1590px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+color: #999999;
+}
+.tag2{
+    
+position: absolute;
+width: 69px;
+height: 128px;
+left: 925px;
+top: 1610px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+color: #999999;
+}
+.tag3{
+    
+position: absolute;
+width: 69px;
+height: 128px;
+left: 925px;
+top: 1630px;
+
+font-family: 'Manrope';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 32px;
+/* or 200% */
+
+
+color: #999999;
+}
+.line{
+    
+position: absolute;
+width: 1440px;
+height: 0px;
+left: 0px;
+top: 1421px;
+
+border: 1.5px solid #0c44b6;
+}
